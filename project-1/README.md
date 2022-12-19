@@ -6,6 +6,18 @@ Projeto baseado no artigo **[SitePoint](https://www.sitepoint.com/pusher-vue-rea
 
 ## Executando a apalicação localmente
 
+'''
+> cd chat-app-vue
+'''
+
+'''
+> npm i
+'''
+
+'''
+> npm run serve
+'''
+
 ## Próximos Passos
 
 ## Recursos Adicionais
